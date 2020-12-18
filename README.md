@@ -1,6 +1,6 @@
 # Bucket Sort Algorithm with Python
 
-## 4 time scenario figures for n = 5 and k = 10 to 20
+## 4 different time scenario figures for n = 5 and k = 10 to 20
 
 ## 1
 ![Figure 2020-12-16 231139](https://user-images.githubusercontent.com/67913214/102656054-5dcaea80-4184-11eb-8cb4-d9c6089feb27.png)
