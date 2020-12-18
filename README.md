@@ -1,5 +1,8 @@
 # Bucket Sort Algorithm with Python
 
+![WhatsApp Image 2020-12-18 at 23 16 14](https://user-images.githubusercontent.com/67913214/102657850-7a1c5680-4187-11eb-8e1e-b517bb50574c.jpeg)
+
+
 ## 4 different time scenario figures for n = 5 and k = 10 to 20
 
 ## 1
